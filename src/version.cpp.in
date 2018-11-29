@@ -1,4 +1,4 @@
-#define DEF_jyocoin_VERSION_TAG "@VERSIONTAG@"
+#define DEF_jyocoin_VERSION_TAG ""
 #define DEF_jyocoin_VERSION "1.0.0"
 #define DEF_jyocoin_RELEASE_NAME "Amazon"
 #define DEF_jyocoin_VERSION_FULL DEF_jyocoin_VERSION "-" DEF_jyocoin_VERSION_TAG

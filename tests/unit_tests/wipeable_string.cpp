@@ -1,4 +1,4 @@
-// Copyright (c) 2018, The jyocoin Project
+// Copyright (c) 2018 Jyocoin Project, Derived from 2018, The Monero Project
 // 
 // All rights reserved.
 // 
