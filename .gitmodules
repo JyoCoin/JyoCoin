@@ -1,0 +1,12 @@
+[submodule "external/miniupnp"]
+	path = external/miniupnp
+	url = https://github.com/JyoCoin/miniupnp.git
+[submodule "external/unbound"]
+	path = external/unbound
+	url = https://github.com/JyoCoin/unbound.git
+[submodule "external/rapidjson"]
+	path = external/rapidjson
+	url = https://github.com/JyoCoin/rapidjson.git
+[submodule "external/trezor-common"]
+	path = external/trezor-common
+	url = https://github.com/JyoCoin/trezor-common.git
